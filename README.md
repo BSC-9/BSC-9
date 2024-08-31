@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Balaji Sasank Chaganti!
-👩🏻‍💻👩🏻‍🎓 Computer Science Engineering Student at SRM University, Kattankulathur <br/>
+👨🏻‍💻👨🏻‍🎓 Computer Science Engineering Student at SRM University, Kattankulathur <br/>
 💭 Currently learning about Backend development to become a Full Stack Developer<br/>
 
 <div align="center">            
