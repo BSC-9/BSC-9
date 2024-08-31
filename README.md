@@ -2,13 +2,10 @@
 👩🏻‍💻👩🏻‍🎓 Computer Science Engineering Student at SRM University, Kattankulathur <br/>
 💭 Currently learning about Backend development to become a Full Stack Developer<br/>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=BSC-9&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<div align="center">
-            
-  <img src="https://github-readme-stats.vercel.app/api?username=mvishok&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mvishok&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&hide=html,css,c%2B%2B,cmake" height="150" alt="languages graph"  />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mvishok&theme=dracula" alt="GitHub Streak" /></a>
+<div align="center">            
+  <img src="https://github-readme-stats.vercel.app/api?username=bsc-9&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bsc-9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&hide=html,css,c%2B%2B,cmake" height="150" alt="languages graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bsc-9&theme=dracula" alt="GitHub Streak" /></a>
 </div>
 
 # 💻 Tech Stack
